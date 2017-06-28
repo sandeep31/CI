@@ -88,3 +88,4 @@ available git commands in 'C:\Program Files\Git\mingw32/libexec/git-core'
   fmt-merge-msg       push                worktree
   for-each-ref        quiltimport         write-tree
   format-patch        read-tree
+ 
